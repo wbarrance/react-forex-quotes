@@ -9,7 +9,7 @@ function Demo() {
       <ForexQuotes 
         symbols="EURUSD,GBPJPY,AUDUSD" 
         interval="10000"
-        api_key="VqiSQ7khg3SbYT37dHYogD7KqEckxoz8"
+        api_key="RGesSC02pxtgPFhxK0XZ9TrEbqpDytzX"
         />
     </div>
   );
